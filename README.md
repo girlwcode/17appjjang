@@ -1,11 +1,11 @@
 # 17appjjang - Team PoPo
 17학번들의 GURU2 생존기 
 
-Team Member : 조수민, 조희연, 정수빈, 안예린
+*Team Member : 조수민, 조희연, 정수빈, 안예린
 
 
 
-Team Account : https://github.com/SWU-17appjjang/photy
+*Team Account : https://github.com/SWU-17appjjang/photy
 
 
 
@@ -13,11 +13,7 @@ Team Account : https://github.com/SWU-17appjjang/photy
 
 
 
-This is the result of Hackathon distribution of Guru2 Android at SWU.
-
-
-
-We got Encouragement Award in the contest. 
+This is the result of Hackathon distribution of Guru2 Android at SWU. We got Encouragement Award in the contest. 
 
 
 
