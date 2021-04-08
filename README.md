@@ -13,7 +13,7 @@
 
 
 
-This is the result of Hackathon distribution of Guru2 Android at SWU. We got Encouragement Award in the contest. 
+This is the result of Hackathon of an intensive coding course(Guru2) at SWU. We got Encouragement Award in the contest. 
 
 
 
