@@ -17,4 +17,4 @@ This is the result of Hackathon of an intensive coding course(Guru2) at SWU. We 
 
 
 
-I had in charge of Front-end, but slightly did back-end.
+I was in charge of Front-end, but slightly did back-end.
